@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConfigurationBuilderExtension": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Settings:Name": "Dev Arrays"
+      }
+    }
+  }
+}
